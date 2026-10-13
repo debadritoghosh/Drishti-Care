@@ -1,4 +1,4 @@
-# DrishtiCare AI — SQLite + NVIDIA GPU development build
+# Drishti Care — SQLite + NVIDIA GPU development build
 
 This Streamlit prototype uses SQLite (included with Python) and trains EfficientNet-B0 only on a CUDA-enabled NVIDIA GPU. No MySQL Server or MySQL Workbench is required for local development.
 
