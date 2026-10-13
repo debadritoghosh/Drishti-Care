@@ -1,0 +1,15 @@
+{
+  "model_version": "aptos-efficientnet-b0-baseline-v0.1",
+  "architecture": "torchvision.models.efficientnet_b0",
+  "image_size": 224,
+  "class_labels": [
+    "No DR",
+    "Mild",
+    "Moderate",
+    "Severe",
+    "Proliferative"
+  ],
+  "dataset": "APTOS 2019 Blindness Detection",
+  "clinical_validation": false,
+  "warning": "Research baseline only; not for clinical use."
+}
